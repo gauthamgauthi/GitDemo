@@ -37,5 +37,10 @@ namespace CSharpSelFramework.pageObjects
 
 
         }
+
+        public void Develop()
+        {
+            Console.Write("testing");
+        }
     }
 }
