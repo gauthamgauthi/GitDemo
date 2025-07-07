@@ -67,7 +67,11 @@ namespace CSharpSelFramework.pageObjects
 
 
 
-
+		public void SampleSeleniumTesting()
+		{
+			Console.Writeline("Testing");
+			
+		}
 
 
 
