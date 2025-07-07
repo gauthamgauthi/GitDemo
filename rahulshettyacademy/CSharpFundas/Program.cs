@@ -34,6 +34,8 @@ namespace CSharpFundas
         {
             Console.WriteLine("My name is " + this.name);
             Console.WriteLine("Testing");
+            Console.WriteLine("Testing");
+            Console.WriteLine("Testing");
         }
 
         public void getData()
