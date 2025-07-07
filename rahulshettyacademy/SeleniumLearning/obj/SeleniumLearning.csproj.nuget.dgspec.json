@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj": {}
+    "D:\\GitDemo\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj": {
+    "D:\\GitDemo\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectUniqueName": "D:\\GitDemo\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj",
         "projectName": "SeleniumLearning",
-        "projectPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectPath": "D:\\GitDemo\\rahulshettyacademy\\SeleniumLearning\\SeleniumLearning.csproj",
         "packagesPath": "C:\\Users\\gauth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\SeleniumLearning\\obj\\",
+        "outputPath": "D:\\GitDemo\\rahulshettyacademy\\SeleniumLearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gauth\\AppData\\Roaming\\NuGet\\NuGet.Config",

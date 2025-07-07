@@ -10503,11 +10503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpSelFramework\\CSharpSelFramework.csproj",
+      "projectUniqueName": "D:\\GitDemo\\rahulshettyacademy\\CSharpSelFramework\\CSharpSelFramework.csproj",
       "projectName": "CSharpSelFramework",
-      "projectPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpSelFramework\\CSharpSelFramework.csproj",
+      "projectPath": "D:\\GitDemo\\rahulshettyacademy\\CSharpSelFramework\\CSharpSelFramework.csproj",
       "packagesPath": "C:\\Users\\gauth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpSelFramework\\obj\\",
+      "outputPath": "D:\\GitDemo\\rahulshettyacademy\\CSharpSelFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gauth\\AppData\\Roaming\\NuGet\\NuGet.Config",

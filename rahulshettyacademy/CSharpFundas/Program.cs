@@ -19,7 +19,7 @@ namespace CSharpFundas
         }
 
 
-        public Program(String firstName,String lastName)
+        public Program(String firstName, String lastName)
 
         {
             this.lastName = lastName;
@@ -33,6 +33,7 @@ namespace CSharpFundas
 
         {
             Console.WriteLine("My name is " + this.name);
+            Console.WriteLine("Testing");
         }
 
         public void getData()
@@ -47,7 +48,7 @@ namespace CSharpFundas
         {
 
             Program p = new Program("Rahul");
-            Program p1 = new Program("Rahul","Shetty");
+            Program p1 = new Program("Rahul", "Shetty");
 
             p.getData();
             p.getName();
@@ -56,7 +57,7 @@ namespace CSharpFundas
 
             Console.WriteLine("Hello World!");
             int a = 4;
-           // Double c = 3.12;
+            // Double c = 3.12;
             Console.WriteLine("number is " + a);
 
             String name = "Rahul";
@@ -81,4 +82,3 @@ namespace CSharpFundas
 
 
 }
- 

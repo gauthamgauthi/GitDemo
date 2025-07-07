@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj": {}
+    "D:\\GitDemo\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj": {
+    "D:\\GitDemo\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj",
+        "projectUniqueName": "D:\\GitDemo\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj",
         "projectName": "CSharpFundas",
-        "projectPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj",
+        "projectPath": "D:\\GitDemo\\rahulshettyacademy\\CSharpFundas\\CSharpFundas.csproj",
         "packagesPath": "C:\\Users\\gauth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauth\\Downloads\\rahulshettyacademy (1)\\rahulshettyacademy\\CSharpFundas\\obj\\",
+        "outputPath": "D:\\GitDemo\\rahulshettyacademy\\CSharpFundas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gauth\\AppData\\Roaming\\NuGet\\NuGet.Config",
